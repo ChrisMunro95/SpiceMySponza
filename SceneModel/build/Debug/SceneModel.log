@@ -1,0 +1,24 @@
+﻿Build started 05/02/2016 21:03:56.
+     1>Project "C:\Users\Chris\Documents\University Work\Year 2\3D Graphics Programming\SpiceMySponza\SceneModel\SceneModel.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Iinclude /I"C:\Users\Chris\Documents\University Work\Year 2\3D Graphics Programming\SpiceMySponza\external/include" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"build\Debug\\" /Fd"lib\Win32\v120\Debug\SceneModel.pdb" /Gd /TP /analyze- /errorReport:prompt src\Camera.cpp src\Context.cpp src\GeometryBuilder.cpp src\Instance.cpp src\Light.cpp src\Material.cpp src\Mesh.cpp
+         Camera.cpp
+     1>c:\users\chris\documents\university work\year 2\3d graphics programming\spicemysponza\scenemodel\include\scenemodel\Camera.hpp(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+         Context.cpp
+     1>c:\users\chris\documents\university work\year 2\3d graphics programming\spicemysponza\scenemodel\include\scenemodel\Camera.hpp(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+         GeometryBuilder.cpp
+     1>c:\users\chris\documents\university work\year 2\3d graphics programming\spicemysponza\scenemodel\include\scenemodel\Camera.hpp(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+         Instance.cpp
+     1>c:\users\chris\documents\university work\year 2\3d graphics programming\spicemysponza\scenemodel\include\scenemodel\Camera.hpp(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+         Light.cpp
+     1>c:\users\chris\documents\university work\year 2\3d graphics programming\spicemysponza\scenemodel\include\scenemodel\Camera.hpp(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+         Material.cpp
+     1>c:\users\chris\documents\university work\year 2\3d graphics programming\spicemysponza\scenemodel\include\scenemodel\Camera.hpp(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+         Mesh.cpp
+     1>c:\users\chris\documents\university work\year 2\3d graphics programming\spicemysponza\scenemodel\include\scenemodel\Camera.hpp(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\Chris\Documents\University Work\Year 2\3D Graphics Programming\SpiceMySponza\SceneModel\SceneModel.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.37
